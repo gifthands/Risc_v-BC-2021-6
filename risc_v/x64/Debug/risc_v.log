@@ -1,0 +1,8 @@
+﻿  riscv.cpp
+C:\Users\DELL\Documents\WeChat Files\wxid_22r02okiptox22\FileStorage\File\2020-11\risc_v2(4)\risc_v\R_type.h(54,92): warning C4293: “>>”: Shift 计数为负或过大，其行为未定义
+C:\Users\DELL\Documents\WeChat Files\wxid_22r02okiptox22\FileStorage\File\2020-11\risc_v2(4)\risc_v\C_type.h(13,1): warning C4005: “CFLD”: 宏重定义
+C:\Users\DELL\Documents\WeChat Files\wxid_22r02okiptox22\FileStorage\File\2020-11\risc_v2(4)\risc_v\C_type.h(11): message : 参见“CFLD”的前一个定义
+C:\Users\DELL\Documents\WeChat Files\wxid_22r02okiptox22\FileStorage\File\2020-11\risc_v2(4)\risc_v\C_type.h(14,1): warning C4005: “CSW”: 宏重定义
+C:\Users\DELL\Documents\WeChat Files\wxid_22r02okiptox22\FileStorage\File\2020-11\risc_v2(4)\risc_v\C_type.h(12): message : 参见“CSW”的前一个定义
+C:\Users\DELL\Documents\WeChat Files\wxid_22r02okiptox22\FileStorage\File\2020-11\risc_v2(4)\risc_v\riscv.cpp(304,60): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  risc_v.vcxproj -> C:\Users\DELL\Documents\WeChat Files\wxid_22r02okiptox22\FileStorage\File\2020-11\risc_v2(4)\x64\Debug\risc_v.exe
